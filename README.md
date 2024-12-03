@@ -1,0 +1,4 @@
+- Hi, I’m Muhammad Shawaiz, a Software Engineer with a particular passion for Front-end Development.
+- I’m currently learning React, Tailwind CSS, and exploring machine learning concepts.
+- I’m looking to collaborate on web development projects, digital learning platforms, and automation.
+- You can reach me via email at shaaavie@gmail.com
