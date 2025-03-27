@@ -7,12 +7,6 @@ Currently, I'm expanding my skillset to **Next.js** and **backend development**.
 
 ---
 
-## 🔥 Profile Views  
-
-![Profile Views](https://komarev.com/ghpvc/?username=shaaavie&label=Profile%20views&color=blue&style=flat)
-
----
-
 ## 🚀 Tech Stack  & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
