@@ -1,13 +1,13 @@
 # Assalamu Alaikum, I'm Muhammad Shawaiz
 
-🚀 **Software Engineer | Frontend Dev**  
+ **Software Engineer | Frontend Dev**  
 
 My interest in computers led me to pursue Computer Science, and in my early years, I started exploring Web Development.  
 Currently, I'm expanding my skillset to **Next.js** and **backend development**.
 
 ---
 
-## 🚀 Tech Stack  & Tools
+##  Tech Stack  & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
