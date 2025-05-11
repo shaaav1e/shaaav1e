@@ -3,7 +3,7 @@
  **Software Engineer | Frontend Dev**  
 
 My interest in computers led me to pursue Computer Science, and in my early years, I started exploring Web Development.  
-Currently, I'm expanding my skillset to **Next.js** and **backend development**.
+
 
 ---
 
