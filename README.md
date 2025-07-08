@@ -2,7 +2,7 @@
 
  **Software Engineer | Frontend Dev**  
 
-My interest in computers led me to pursue Computer Science, and in my early years, I started exploring Web Development.  
+My passion for computers led me to pursue a degree in computer science, where I began exploring frontend development during my early years. Recognizing the fast-paced nature of the tech industry, I have Full-Stack development and LangChain on my radar as key areas to explore. Additionally, I regularly utilize AI-powered tools to enhance both my productivity and learning, ensuring continuous improvement.
 
 
 ---
